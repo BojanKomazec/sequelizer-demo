@@ -1,0 +1,23 @@
+{
+  "name": "sequelizer-demo",
+  "version": "1.0.0",
+  "description": "https://www.npmjs.com/package/sequelizer demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BojanKomazec/sequelizer-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BojanKomazec/sequelizer-demo/issues"
+  },
+  "homepage": "https://github.com/BojanKomazec/sequelizer-demo#readme",
+  "dependencies": {
+    "sequelizer": "^1.1.3"
+  }
+}
